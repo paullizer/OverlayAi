@@ -1,2 +1,2 @@
 # OverlayAi
-An AI-powered overlay that provides contextual assistance and navigation tips on any web application page to enhance user interaction and usability.
+OverlayAI is an intelligent, AI-driven overlay designed to seamlessly integrate with your existing web applications. By automatically analyzing the content of each page, OverlayAI provides contextual assistance and navigation tips to help users interact more efficiently and effectively. Whether you're navigating complex interfaces or seeking quick guidance, OverlayAI enhances the user experience by delivering relevant information right when you need it, all within a clean and customizable overlay that can be easily minimized or expanded as desired.
